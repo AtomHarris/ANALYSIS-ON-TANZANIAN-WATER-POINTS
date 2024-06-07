@@ -1,9 +1,11 @@
-# Predicting Water Points Status in Tanzania
+![Water image](water.jpg)
+# TANZANIAN WATER WELLS
+***
 
 
-
+***
 ## Overview
-
+***
 Tanzania, the fifth most populous country in Africa, has experienced significant economic growth over the years, however despite considerable investment in water supply infrastructure from donor funding and the government, a significant proportion of its population remains without proper access to improved drinking water. With their Millennium Development Goals (MDGs) to halve the proportion of people that do not have access to water services by 2015, Tanzania only increased its access to improved drinking water from 54 percent to 56 percent [JMP, 2015](https://www.unwater.org/sites/default/files/app/uploads/2020/04/WHOUNICEF-Joint-Monitoring-Program-for-Water-Supply-and-Sanitation-JMP-%e2%80%93-2015-Update_-ENG.pdf). The country now faces a difficult task of meeting the Sustainable Development Goals (SDGs) to provide universal coverage of safe water by 2030.
 
 ***
@@ -18,8 +20,10 @@ A holistic approach was used to determine the factors to be considered to be abl
 ## PROBLEM STATEMENT
 ***
 > We have been tasked by World Bank Group together with the Government of Tanzania to seek a better understanding as to why water point failure is significantly higher in Tanzania as opposed to the rest of Africa as well as a way to reliably predict when water pumps shall fail as they tackle the difficult tast of meeting their 2030 MDG goals in Environmental Sustainability 
+***
 
 ## OBJECTIVES
+***
 **1. Analyze Factors Contributing to Water Point Failure:**
 
 **2. Assess the Impact of Geographic and Demographic Variables:**
@@ -28,7 +32,7 @@ A holistic approach was used to determine the factors to be considered to be abl
 
 **4. Develop a Predictive Model for Water Point Failure:**
 
-
+***
 ## DATA UNDERSTANDING
  ***
 This research utilized data from [DRIVEN DATA](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) about waterpoints. The dataset was split into three CSV files:
@@ -89,13 +93,16 @@ The labels in the training set labels contained one column, **status_group**. Th
 - **functional**: The waterpoint is operational and there are no repairs needed
 - **functional needs repair**: The waterpoint is operational, but needs repairs
 - **non functional**: The waterpoint is not operational
-
+***
 ## OBSERVATIONS 
+***
 
-
-
+***
 ## RECOMMENDATIONS
+***
 
+
+***
 ## CONCLUSIONS
-
+***
 
